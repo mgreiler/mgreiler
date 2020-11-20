@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 -->
 
 
-# 📩 Latest Blog Posts
+### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
