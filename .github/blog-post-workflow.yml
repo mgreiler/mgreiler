@@ -13,5 +13,5 @@ jobs:
      - uses: actions/checkout@v2
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
-         # Replace this URL with your rss feed URL/s
+         # My blogs rss feed URL
          feed_list: "https://www.michaelagreiler.com/feed/"
