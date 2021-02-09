@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Security Code Review Checklist](https://www.michaelagreiler.com/security-code-review-checklist/?utm_source=rss&utm_medium=rss&utm_campaign=security-code-review-checklist)
 - [Build your own “intelligent” code review reminder](https://www.michaelagreiler.com/code-review-reminder/?utm_source=rss&utm_medium=rss&utm_campaign=code-review-reminder)
 - [PR Rejections as a Metric for Code Review Quality](https://www.michaelagreiler.com/rejections-as-code-review-quality-metric/?utm_source=rss&utm_medium=rss&utm_campaign=rejections-as-code-review-quality-metric)
 - [How to successfully blog as a developer in 2020](https://www.michaelagreiler.com/successfully-developer-blog/?utm_source=rss&utm_medium=rss&utm_campaign=successfully-developer-blog)
 - [Stacked pull requests: make code reviews faster, easier, and more effective](https://www.michaelagreiler.com/stacked-pull-requests/?utm_source=rss&utm_medium=rss&utm_campaign=stacked-pull-requests)
-- [Better code quality with effective collaboration and code review](https://www.michaelagreiler.com/gitlab-event/?utm_source=rss&utm_medium=rss&utm_campaign=gitlab-event)
 <!-- BLOG-POST-LIST:END -->
