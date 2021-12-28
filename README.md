@@ -27,6 +27,10 @@ Here are some ideas to get you started:
 -->
 
 
+### 📩 Latest Podcast Episodes
+<!-- PODCAST-POST-LIST:START -->
+<!-- PODCAST-POST-LIST:END -->
+
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Security Code Review Checklist](https://www.michaelagreiler.com/security-code-review-checklist/?utm_source=rss&utm_medium=rss&utm_campaign=security-code-review-checklist)
