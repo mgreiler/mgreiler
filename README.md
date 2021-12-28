@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -->
 
 
-### 📩 Latest Podcast Episodes
+### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
 <!-- PODCAST-POST-LIST:END -->
 
