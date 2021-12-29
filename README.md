@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 - [Better collaboration &amp; performance through diversity and inclusion](https://www.software-engineering-unlocked.com/diversity-and-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=diversity-and-inclusion)
 <!-- PODCAST-POST-LIST:END -->
 
+### Awesome Code Review Posts
+<!-- AWESOMECODEREVIEW-LIST:START -->
+<!-- AWESOMECODEREVIEW-LIST:END -->
+
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [A Security Code Review Checklist to find Security Vulnerabilities](https://www.michaelagreiler.com/security-code-review-checklist/?utm_source=rss&utm_medium=rss&utm_campaign=security-code-review-checklist)
