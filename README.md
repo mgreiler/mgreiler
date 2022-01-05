@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [How to build a strong engineering culture through engineering values](https://www.software-engineering-unlocked.com/engineering-values/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-values)
 - [Measure developer productivity using the SPACE framework](https://www.software-engineering-unlocked.com/measure-developer-productivity-space/?utm_source=rss&utm_medium=rss&utm_campaign=measure-developer-productivity-space)
 - [Do not measure developer productivity](https://www.software-engineering-unlocked.com/dont-measure-developer-productivity/?utm_source=rss&utm_medium=rss&utm_campaign=dont-measure-developer-productivity)
 - [Content creation as a career path for developers](https://www.software-engineering-unlocked.com/content-creation-as-a-career-path/?utm_source=rss&utm_medium=rss&utm_campaign=content-creation-as-a-career-path)
 - [Driving innovation and engineering practices  with Dr. Holly Cummins](https://www.software-engineering-unlocked.com/innovation-engineering-practices/?utm_source=rss&utm_medium=rss&utm_campaign=innovation-engineering-practices)
-- [Better collaboration &amp; performance through diversity and inclusion](https://www.software-engineering-unlocked.com/diversity-and-inclusion/?utm_source=rss&utm_medium=rss&utm_campaign=diversity-and-inclusion)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
