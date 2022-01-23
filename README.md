@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - [How to give code review feedback](https://awesomecodereviews.com/code-review-feedback/)
 - [Building a strong engineering culture through engineering values](https://awesomecodereviews.com/engineering-values/)
 - [Security Code Review Checklist](https://awesomecodereviews.com/secure-code-review-checklist/)
-- [How to Give Respectful and Constructive Code Review Feedback](https://awesomecodereviews.com/constructive-code-review-feedback/)
+- [How to Give Respectful and Constructive Code Review Feedback](https://awesomecodereviews.com/respectful-code-review-feedback/)
 - [Code Reviews at Google are lightweight and fast](https://awesomecodereviews.com/code-reviews-at-google/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
