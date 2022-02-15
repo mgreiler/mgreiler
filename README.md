@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [Make money with open source software](https://www.software-engineering-unlocked.com/money-open-source-software/?utm_source=rss&utm_medium=rss&utm_campaign=money-open-source-software)
 - [Are happy developers more productive?](https://www.software-engineering-unlocked.com/happy-developers-productive/?utm_source=rss&utm_medium=rss&utm_campaign=happy-developers-productive)
 - [How to write tests that find bugs](https://www.software-engineering-unlocked.com/tests-find-bugs/?utm_source=rss&utm_medium=rss&utm_campaign=tests-find-bugs)
 - [How to build a strong engineering culture through engineering values](https://www.software-engineering-unlocked.com/engineering-values/?utm_source=rss&utm_medium=rss&utm_campaign=engineering-values)
 - [Measure developer productivity using the SPACE framework](https://www.software-engineering-unlocked.com/measure-developer-productivity-space/?utm_source=rss&utm_medium=rss&utm_campaign=measure-developer-productivity-space)
-- [Do not measure developer productivity](https://www.software-engineering-unlocked.com/dont-measure-developer-productivity/?utm_source=rss&utm_medium=rss&utm_campaign=dont-measure-developer-productivity)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
