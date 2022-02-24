@@ -38,11 +38,10 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
-- [How to give code review feedback](https://awesomecodereviews.com/code-review-feedback/)
-- [Building a strong engineering culture through engineering values](https://awesomecodereviews.com/engineering-values/)
-- [Security Code Review Checklist](https://awesomecodereviews.com/secure-code-review-checklist/)
 - [How to Give Respectful and Constructive Code Review Feedback](https://awesomecodereviews.com/respectful-code-review-feedback/)
 - [Code Reviews at Google are lightweight and fast](https://awesomecodereviews.com/code-reviews-at-google/)
+- [How Code Reviews work at Microsoft](https://awesomecodereviews.com/code-reviews-at-microsoft/)
+- [The Ultimate Code Review Blog Post Series](https://awesomecodereviews.com/code-review-blog-post-series/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
