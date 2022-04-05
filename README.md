@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
-- [Foster a learning culture in software engineering to overcome learning debt](https://www.software-engineering-unlocked.com/foster-learning-culture/?utm_source=rss&utm_medium=rss&utm_campaign=foster-learning-culture)
+- [Do not punish learning in software engineering teams](https://www.software-engineering-unlocked.com/foster-learning-culture/?utm_source=rss&utm_medium=rss&utm_campaign=foster-learning-culture)
 - [Running a developer community](https://www.software-engineering-unlocked.com/running-a-developer-community/?utm_source=rss&utm_medium=rss&utm_campaign=running-a-developer-community)
 - [Predictable profit through small bets](https://www.software-engineering-unlocked.com/entrepreneurship-developer/?utm_source=rss&utm_medium=rss&utm_campaign=entrepreneurship-developer)
 - [Make money with open source software](https://www.software-engineering-unlocked.com/money-open-source-software/?utm_source=rss&utm_medium=rss&utm_campaign=money-open-source-software)
