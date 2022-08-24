@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
+- [Create pull request templates to improve code review descriptions](https://awesomecodereviews.com/pull-request-template/)
 - [How to Give Respectful and Constructive Code Review Feedback](https://awesomecodereviews.com/respectful-code-review-feedback/)
 - [Code Reviews at Google are lightweight and fast](https://awesomecodereviews.com/code-reviews-at-google/)
 - [How Code Reviews work at Microsoft](https://awesomecodereviews.com/code-reviews-at-microsoft/)
