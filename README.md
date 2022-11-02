@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [Deeply caring about developer experience](https://www.software-engineering-unlocked.com/developer-experience-job/?utm_source=rss&utm_medium=rss&utm_campaign=developer-experience-job)
 - [Making security easier for developers](https://www.software-engineering-unlocked.com/easier-security/?utm_source=rss&utm_medium=rss&utm_campaign=easier-security)
 - [Being an engineering manager wasn’t for me](https://www.software-engineering-unlocked.com/no-engineering-manager/?utm_source=rss&utm_medium=rss&utm_campaign=no-engineering-manager)
 - [Mentoring as an engineering manager](https://www.software-engineering-unlocked.com/mentoring-engineering-manager/?utm_source=rss&utm_medium=rss&utm_campaign=mentoring-engineering-manager)
 - [What hinders your career as a developer? – Mindset.](https://www.software-engineering-unlocked.com/advance-dev-career/?utm_source=rss&utm_medium=rss&utm_campaign=advance-dev-career)
-- [Using WordPress to run a profitable developer training business](https://www.software-engineering-unlocked.com/wordpress-dev-training-business/?utm_source=rss&utm_medium=rss&utm_campaign=wordpress-dev-training-business)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
