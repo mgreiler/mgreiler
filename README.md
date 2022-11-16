@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [Collaborative debugging with Fiberplane](https://www.software-engineering-unlocked.com/fiberplane-collaborative-debugging)
 - [Deeply caring for developer experience](https://www.software-engineering-unlocked.com/developer-experience-job)
 - [Making security easier for developers](https://www.software-engineering-unlocked.com/easier-security)
 - [Being an engineering manager wasn’t for me](https://www.software-engineering-unlocked.com/no-engineering-manager)
 - [Mentoring as an engineering manager](https://www.software-engineering-unlocked.com/mentoring-engineering-manager)
-- [What hinders your career as a developer? - Mindset.](https://www.software-engineering-unlocked.com/advance-dev-career)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
