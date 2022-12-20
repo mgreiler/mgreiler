@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [Writing code at MAANG companies](https://www.software-engineering-unlocked.com/coding-practices-maang)
 - [Can Engineering metrics be ethical?](https://www.software-engineering-unlocked.com/engineering-metrics)
 - [Collaborative debugging with Fiberplane](https://www.software-engineering-unlocked.com/fiberplane-collaborative-debugging)
 - [High-performing engineering teams through DX](https://www.software-engineering-unlocked.com/developer-experience-job)
 - [Making security easier for developers](https://www.software-engineering-unlocked.com/easier-security)
-- [Being an engineering manager wasn’t for me](https://www.software-engineering-unlocked.com/no-engineering-manager)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
