@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
-- [Why we need an Awesome Code Review Workshop](https://awesomecodereviews.com/manager-approval/)
-- [Create pull request templates to improve code review descriptions](https://awesomecodereviews.com/pull-request-template/)
-- [How to Give Respectful and Constructive Code Review Feedback](https://awesomecodereviews.com/respectful-code-review-feedback/)
-- [Code Reviews at Google are lightweight and fast](https://awesomecodereviews.com/code-reviews-at-google/)
-- [How Code Reviews work at Microsoft](https://awesomecodereviews.com/code-reviews-at-microsoft/)
+- [Code Review Challenges That Slow Your Team Down](https://awesomecodereviews.com/fundamentals/challenges/)
+- [30 Proven Code Review Best Practices](https://awesomecodereviews.com/best-practices/code-review-best-practices/)
+- [10 Best Code Review Tools In 2023](https://awesomecodereviews.com/tools/best-code-review-tools/)
+- [Code Review 101](https://awesomecodereviews.com/fundamentals/code-review-101/)
+- [A Code Review Checklist – Focus on these 10 Important Topics](https://awesomecodereviews.com/checklists/code-review-checklist/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
