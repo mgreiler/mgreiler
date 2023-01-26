@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
 - [Code Review Challenges That Slow Your Team Down](https://awesomecodereviews.com/fundamentals/challenges/)
+- [Security code review checklist](https://awesomecodereviews.com/checklists/secure-code-review-checklist/)
 - [Code Review 101](https://awesomecodereviews.com/fundamentals/code-review-101/)
 - [30 Proven Code Review Best Practices](https://awesomecodereviews.com/best-practices/code-review-best-practices/)
 - [10 Best Code Review Tools In 2023](https://awesomecodereviews.com/tools/best-code-review-tools/)
-- [A Code Review Checklist – Focus on these 10 Important Topics](https://awesomecodereviews.com/checklists/code-review-checklist/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
