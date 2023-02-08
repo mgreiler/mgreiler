@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
-- [Mastering a difficult job search after a career break](https://www.software-engineering-unlocked.com/mastering-difficult-job-search)
+- [Fighting software vulnerabilities with software bill of materials](https://www.software-engineering-unlocked.com/software-bill-of-material)
+- [A soul-crushing job search](https://www.software-engineering-unlocked.com/mastering-difficult-job-search)
 - [Entrepreneurship, Career Growth and Testing: Top 5 Episodes of 2022](https://www.software-engineering-unlocked.com/top5-2022)
 - [Coding practices at Google and Microsoft vs. startups](https://www.software-engineering-unlocked.com/coding-practices-maang)
 - [Can Engineering metrics be ethical?](https://www.software-engineering-unlocked.com/engineering-metrics)
-- [Collaborative debugging with Fiberplane](https://www.software-engineering-unlocked.com/fiberplane-collaborative-debugging)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
