@@ -41,8 +41,8 @@ Here are some ideas to get you started:
 - [Code Review Challenges That Slow Your Team Down](https://awesomecodereviews.com/fundamentals/challenges/)
 - [Code Reviewer Selection](https://awesomecodereviews.com/best-practices/code-reviewer-selection/)
 - [Code Reviews at Companies](https://awesomecodereviews.com/companies/)
-- [Code Review Tools](https://awesomecodereviews.com/tools/)
 - [Dynamic Application Security Testing](https://awesomecodereviews.com/security/dynamic-application-security-testing/)
+- [Static Application Security Testing](https://awesomecodereviews.com/security/static-application-security-testing/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
