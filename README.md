@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
 - [Code Review Challenges That Slow Your Team Down](https://awesomecodereviews.com/fundamentals/challenges/)
-- [Code Reviewer Selection](https://awesomecodereviews.com/best-practices/code-reviewer-selection/)
 - [Code Reviews at Companies](https://awesomecodereviews.com/companies/)
 - [Dynamic Application Security Testing](https://awesomecodereviews.com/security/dynamic-application-security-testing/)
 - [Static Application Security Testing](https://awesomecodereviews.com/security/static-application-security-testing/)
+- [Scanning for security vulnerabilities with CodeQL](https://awesomecodereviews.com/automation/codeql/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
