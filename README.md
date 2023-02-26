@@ -39,10 +39,10 @@ Here are some ideas to get you started:
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
 - [Code Review Challenges That Slow Your Team Down](https://awesomecodereviews.com/fundamentals/challenges/)
-- [Code Reviews at Companies](https://awesomecodereviews.com/companies/)
+- [Specific Code Review Checklists](https://awesomecodereviews.com/checklists/topic-based-code-review-checklists/)
+- [Company Specific Code Review Practices](https://awesomecodereviews.com/companies/company-specific-code-review-practices/)
+- [Automatic code review descriptions with &quot;Whatthediff&quot; code review tool](https://awesomecodereviews.com/tools/code-review-descriptions-what-the-diff/)
 - [Dynamic Application Security Testing](https://awesomecodereviews.com/security/dynamic-application-security-testing/)
-- [Static Application Security Testing](https://awesomecodereviews.com/security/static-application-security-testing/)
-- [Scanning for security vulnerabilities with CodeQL](https://awesomecodereviews.com/automation/codeql/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
