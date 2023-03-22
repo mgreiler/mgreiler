@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [From DevOps to Platform engineering](https://www.software-engineering-unlocked.com/platform-engineering)
 - [The journey of a self-taught developer](https://www.software-engineering-unlocked.com/self-taught-developer)
 - [Do code reviews frustrate developers?](https://www.software-engineering-unlocked.com/emotions-software-engineering)
 - [Fighting software vulnerabilities with software bill of materials](https://www.software-engineering-unlocked.com/software-bill-of-material)
 - [A soul-crushing job search](https://www.software-engineering-unlocked.com/mastering-difficult-job-search)
-- [Entrepreneurship, Career Growth and Testing: Top 5 Episodes of 2022](https://www.software-engineering-unlocked.com/top5-2022)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
