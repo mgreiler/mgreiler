@@ -47,9 +47,9 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [A Year in Review – 2023](https://www.michaelagreiler.com/year-in-review-2023/?utm_source=rss&utm_medium=rss&utm_campaign=year-in-review-2023)
 - [Measuring the Impact of Developer Experience](https://www.michaelagreiler.com/measuring-the-impact-of-developer-experience/?utm_source=rss&utm_medium=rss&utm_campaign=measuring-the-impact-of-developer-experience)
 - [Two years in Review: 2021 and 2020](https://www.michaelagreiler.com/two-years-in-review-2021/?utm_source=rss&utm_medium=rss&utm_campaign=two-years-in-review-2021)
 - [Security Code Review Checklist to find Security Vulnerabilities](https://www.michaelagreiler.com/security-code-review-checklist/?utm_source=rss&utm_medium=rss&utm_campaign=security-code-review-checklist)
 - [Build your own “intelligent” code review reminder](https://www.michaelagreiler.com/code-review-reminder/?utm_source=rss&utm_medium=rss&utm_campaign=code-review-reminder)
-- [Measuring Code Review Quality through PR Rejections](https://www.michaelagreiler.com/rejections-as-code-review-quality-metric/?utm_source=rss&utm_medium=rss&utm_campaign=rejections-as-code-review-quality-metric)
 <!-- BLOG-POST-LIST:END -->
