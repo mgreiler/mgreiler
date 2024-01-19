@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
-- [DevEx: What Actually Drives Productivity](https://awesomecodereviews.com/devex/developer-experience-acm/)
+- [Developer Experience: Does it Matter?](https://awesomecodereviews.com/devex/developer-experience-impact/)
 - [What is Developer Experience &lpar;DevEx&rpar;?](https://awesomecodereviews.com/devex/introduction/)
+- [Developer Experience: : What Drives Productivity?](https://awesomecodereviews.com/devex/developer-experience-acm/)
 - [Code Review Challenges That Slow Your Team Down](https://awesomecodereviews.com/fundamentals/challenges/)
 - [Specific Code Review Checklists](https://awesomecodereviews.com/checklists/topic-based-code-review-checklists/)
-- [Company Specific Code Review Practices](https://awesomecodereviews.com/companies/company-specific-code-review-practices/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
