@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
+- [Bottom-Up Code Review](https://awesomecodereviews.com/code-reading/bottom-up-code-review/)
+- [Code Review Techniques](https://awesomecodereviews.com/code-reading/)
 - [10 Best Code Review Techniques](https://awesomecodereviews.com/code-reading/code-review-techniques/)
 - [Test-Driven Code Reviews](https://awesomecodereviews.com/code-reading/test-driven-code-review/)
-- [Developer Experience: Does it Matter?](https://awesomecodereviews.com/devex/developer-experience-impact/)
-- [Developer Experience: : What Drives Productivity?](https://awesomecodereviews.com/devex/developer-experience-acm/)
-- [What is Developer Experience &lpar;DevEx&rpar;?](https://awesomecodereviews.com/devex/introduction/)
+- [Top-Down Code Review](https://awesomecodereviews.com/code-reading/top-down-code-review/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
