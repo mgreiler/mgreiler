@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
-- [Bottom-Up Code Review](https://awesomecodereviews.com/code-reading/bottom-up-code-review/)
 - [Code Review Techniques](https://awesomecodereviews.com/code-reading/)
+- [Bottom-Up Code Review](https://awesomecodereviews.com/code-reading/bottom-up-code-review/)
 - [10 Best Code Review Techniques](https://awesomecodereviews.com/code-reading/code-review-techniques/)
 - [Test-Driven Code Reviews](https://awesomecodereviews.com/code-reading/test-driven-code-review/)
 - [Top-Down Code Review](https://awesomecodereviews.com/code-reading/top-down-code-review/)
