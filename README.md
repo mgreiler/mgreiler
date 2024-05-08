@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
+- [AI Code Review Tools](https://awesomecodereviews.com/tools/ai-code-review-tools/)
+- [Automated code review tools](https://awesomecodereviews.com/automation/automated-code-reviews/)
 - [Bottom-Up Code Review](https://awesomecodereviews.com/code-reading/bottom-up-code-review/)
 - [Code Review Techniques](https://awesomecodereviews.com/code-reading/)
 - [10 Best Code Review Techniques](https://awesomecodereviews.com/code-reading/code-review-techniques/)
-- [Test-Driven Code Reviews](https://awesomecodereviews.com/code-reading/test-driven-code-review/)
-- [Top-Down Code Review](https://awesomecodereviews.com/code-reading/top-down-code-review/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
