@@ -29,11 +29,11 @@ Here are some ideas to get you started:
 
 ### 🎙️ Latest Podcast Episodes
 <!-- PODCAST-POST-LIST:START -->
+- [Relationships Ruin Your Code Reviews](https://www.software-engineering-unlocked.com/relationships-code-reviews/)
 - [Measuring developer experience](https://www.software-engineering-unlocked.com/measure-developer-experience)
 - [From DevOps to Platform engineering](https://www.software-engineering-unlocked.com/platform-engineering)
 - [The journey of a self-taught developer](https://www.software-engineering-unlocked.com/self-taught-developer)
 - [Do code reviews frustrate developers?](https://www.software-engineering-unlocked.com/emotions-software-engineering)
-- [Fighting software vulnerabilities with software bill of materials](https://www.software-engineering-unlocked.com/software-bill-of-material)
 <!-- PODCAST-POST-LIST:END -->
 
 ### Awesome Code Review Posts
