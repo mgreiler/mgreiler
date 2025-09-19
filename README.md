@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
-- [Stacked Pull Requests Workflow and Concept](https://awesomecodereviews.com/best-practices/stacked-prs/)
+- [Stacked Pull Requests - The Complete Guide for Developers](https://awesomecodereviews.com/best-practices/stacked-prs/)
 - [Using Copilot for Automated Code Reviews](https://awesomecodereviews.com/automation/copilot-review/)
 - [Best AI Code Review Tools 2024](https://awesomecodereviews.com/tools/ai-code-review-tools/)
 - [13 Best Automated Code Review Tools](https://awesomecodereviews.com/automation/automated-code-reviews/)
