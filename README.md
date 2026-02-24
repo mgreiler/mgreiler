@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
-- [Stacked Pull Requests - The Complete Guide for Developers](https://awesomecodereviews.com/best-practices/stacked-prs/)
-- [Using Copilot for Automated Code Reviews](https://awesomecodereviews.com/automation/copilot-review/)
-- [Best AI Code Review Tools 2024](https://awesomecodereviews.com/tools/ai-code-review-tools/)
-- [13 Best Automated Code Review Tools](https://awesomecodereviews.com/automation/automated-code-reviews/)
-- [Bottom-Up Code Review](https://awesomecodereviews.com/code-reading/bottom-up-code-review/)
+- [Stacked Pull Requests - The Complete Guide for Developers](https://www.awesomecodereviews.com/best-practices/stacked-prs/)
+- [Using Copilot for Automated Code Reviews](https://www.awesomecodereviews.com/automation/copilot-review/)
+- [Best AI Code Review Tools 2024](https://www.awesomecodereviews.com/tools/ai-code-review-tools/)
+- [13 Best Automated Code Review Tools](https://www.awesomecodereviews.com/automation/automated-code-reviews/)
+- [Bottom-Up Code Review](https://www.awesomecodereviews.com/code-reading/bottom-up-code-review/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
