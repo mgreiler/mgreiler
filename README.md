@@ -2,7 +2,7 @@
 
 I'm a code review expert and trainer. I work with engineering teams all over the world to make code reviews their super power.
 
-* 🔭 I’m currently working on [awesomcecodereviews.com](https://www.awesomecodereviews.com/ "Bring me to awesomecodereviews"), a learning hub for code reviews.
+* 🔭 I’m currently working on [awesomecodereviews.com](https://www.awesomecodereviews.com/ "Bring me to awesomecodereviews"), a learning hub for code reviews.
 * 🌱 I’m also writing about [code reviews here](https://www.michaelagreiler.com/all-posts/ "Let's read about code reviews").
 * 👯 I’m the host of the [Software Engineering Unlocked Podcast](https://www.software-engineering-unlocked.com/ "Let's listen to the podcast").
 * ⚡ Oh, and of course, you can find my [code review workshops here](https://www.michaelagreiler.com/workshops/ "Bring me to the code review workshop site").
