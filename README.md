@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How Code Reviews Evolve: From Team to Individual Practice](https://www.michaelagreiler.com/code-reviews-from-team-to-individual/?utm_source=rss&utm_medium=rss&utm_campaign=code-reviews-from-team-to-individual)
+- [How Code Reviews Evolve: A Multi-Staged Practice](https://www.michaelagreiler.com/code-reviews-from-team-to-individual/?utm_source=rss&utm_medium=rss&utm_campaign=code-reviews-from-team-to-individual)
 - [When Agentic Coding Breaks Code Review](https://www.michaelagreiler.com/codereview-surrender-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=codereview-surrender-exploitation)
 - [What 40 Software Engineering Researchers Talk About When They Talk About AI](https://www.michaelagreiler.com/research-discussions-about-ai/?utm_source=rss&utm_medium=rss&utm_campaign=research-discussions-about-ai)
 - [As We Can’t Slow AI, We Must Accelerate Responsibility](https://www.michaelagreiler.com/if-we-cant-slow-ai-we-must-accelerate-responsibility/?utm_source=rss&utm_medium=rss&utm_campaign=if-we-cant-slow-ai-we-must-accelerate-responsibility)
