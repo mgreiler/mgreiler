@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ### 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Why the Traditional Code Review Model Is Under Strain](https://www.michaelagreiler.com/code-review-is-under-strain/?utm_source=rss&utm_medium=rss&utm_campaign=code-review-is-under-strain)
-- [SCOPE: A Staged Code Review Model for Agentic Development](https://www.michaelagreiler.com/scope-code-review-operating-model/?utm_source=rss&utm_medium=rss&utm_campaign=scope-code-review-operating-model)
+- [SCOPE: A Staged Code Review Model for Agentic Development](https://www.michaelagreiler.com/scope/?utm_source=rss&utm_medium=rss&utm_campaign=scope)
 - [From Peer Review to Self-Review: The Epistemic Risk of Agentic Development](https://www.michaelagreiler.com/code-reviews-from-team-to-individual/?utm_source=rss&utm_medium=rss&utm_campaign=code-reviews-from-team-to-individual)
 - [When Agentic Coding Breaks Code Review](https://www.michaelagreiler.com/codereview-surrender-exploitation/?utm_source=rss&utm_medium=rss&utm_campaign=codereview-surrender-exploitation)
 - [What 40 Software Engineering Researchers Talk About When They Talk About AI](https://www.michaelagreiler.com/research-discussions-about-ai/?utm_source=rss&utm_medium=rss&utm_campaign=research-discussions-about-ai)
