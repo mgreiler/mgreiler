@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 ### Awesome Code Review Posts
 <!-- AWESOMECODEREVIEW-LIST:START -->
+- [AI Puts Pressure on Code Review](https://www.awesomecodereviews.com/ai-review/ai-puts-pressure-on-code-review/)
+- [Risk-Based Code Review: Who Reviews, and How?](https://www.awesomecodereviews.com/ai-review/risk-based-code-review/)
 - [Overview of Code Review Research](https://www.awesomecodereviews.com/research/code-review-research-overview/)
 - [Datadog Code Security for automated code reviews](https://www.awesomecodereviews.com/automation/datadog-code-security/)
 - [Stacked Pull Requests - The Complete Guide for Developers](https://www.awesomecodereviews.com/best-practices/stacked-prs/)
-- [Using Copilot for Automated Code Reviews](https://www.awesomecodereviews.com/automation/copilot-review/)
-- [Best AI Code Review Tools 2026](https://www.awesomecodereviews.com/tools/ai-code-review-tools/)
 <!-- AWESOMECODEREVIEW-LIST:END -->
 
 ### 📩 Latest Blog Posts
